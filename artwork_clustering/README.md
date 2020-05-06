@@ -7,4 +7,4 @@ Once I decided on my features, I began to experiment with parameters in the K-me
 
 ![](art_photos.png)
 
-![](silhouettes.png)
+![](silhouette_plot.png)
